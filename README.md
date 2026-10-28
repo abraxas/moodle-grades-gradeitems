@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/moodle-grades-gradeitems">moodle-grades-gradeitems</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/moodle-grades-gradeitems"><strong>https://abraxaslabs.tech/research/moodle-grades-gradeitems</strong></a>
+</p>
+
 
 # moodle-grades-gradeitems
 
